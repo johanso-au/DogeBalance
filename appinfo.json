@@ -1,0 +1,26 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "63121f9c-b3ef-4544-8c86-4bacdebc18f1",
+    "appKeys": {
+        "balance": 0
+    },
+    "longName": "DogeBalance Monitor",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "DogeBalance",
+    "companyName": "johanso",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "QR_CODE",
+                "file": "images/canvas.png"
+            }
+        ]
+    }
+}
